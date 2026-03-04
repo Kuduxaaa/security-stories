@@ -1,4 +1,6 @@
-# security-stories
+# Security Stories
+
+![#Visitors](https://visitor-badge.laobi.icu/badge?page_id=kuduxaaa.security-stories)
 
 I keep running into people who want to hack me. So I started writing about it.
 
